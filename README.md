@@ -1,5 +1,17 @@
 # MSiA-400-2021 Twitter Data Project
 
+- [MSiA-400-2021 Twitter Data Project](#msia-400-2021-twitter-data-project)
+  - [Overview](#overview)
+  - [Dataset](#dataset)
+  - [Questions for students](#questions-for-students)
+  - [Expected deliverables](#expected-deliverables)
+  - [Contact person](#contact-person)
+  - [Suggested reading](#suggested-reading)
+
+*Note: For weekly update, please refer to [Weekly Update](weekly_update.md).*
+
+## Overview 
+
 The Jordan Center for the Advanced Study of Russia was established in 2011 thanks to a generous gift from the family of NYU alumni Boris and Elizabeth Jordan. The mission of the Center is to make Russia intrinsic to all aspects of scholarly investigation: from history to visual culture, literature to economics, anthropology to politics. The Center also engages with scholars and projects that examine critical questions pertinent to the broader post-Soviet region.
 
 One such question is what role social media plays in political outcomes, including election results and discourses around candidates, parties, and elections. Availability of technology and advances in machine learning make answering these questions possible for countries and regions around the world, including the post-Soviet region. Comparison of the role and patterns of social media use in politics across various countries in the post-Soviet space can provide a unique understanding of the political dynamics for scholars and practitioners alike. However, before proper comparison can be made across countries, we must understand the dynamics within each country. One such country of interest for cross-national comparison is Mongolia. This project makes the broad question of the political role of social media tractable by exploring how election-related discourse unfolded on Twitter in Mongolia around the parliamentary election of 2020.
@@ -14,7 +26,7 @@ The collected twitter data is mostly in Mongolian, but the data mining tool capt
 
 We do not have formal data dictionaries of this data. However, most of the variables should be based on twitter meta-tags. See Murphy (2016) for coding ideas.
 
-## Questions for students:
+## Questions for students
 
 We are interested in anything of interest you find in the data quantitatively. Explore the options to apply various machine learning models on the dataset for any interesting and useful insights. See Lassen et al. (2016).
 
@@ -44,7 +56,9 @@ How many followers did these top twitterers’ discourse reach?
 
 We are ready to answer any questions about the data and analysis strategies. We would like to have weekly updates from the team and schedule the virtual meetings at the critical points of your analysis. At the end, we look forward to a presentation.
 
-## Expected deliverables:
+Note: Please refer to [Fairness and Bias Assignment](fairness_bias.md) for additional requirement.
+
+## Expected deliverables
 
 - Clean dataset for further textual analysis
 
@@ -58,7 +72,7 @@ We are ready to answer any questions about the data and analysis strategies. We 
 
 - Final report
 
-## Contact person:
+## Contact person
 
 Dr. Delgerjargal Uvsh
 
@@ -70,7 +84,7 @@ New York University
 
 Email: du2026@nyu.edu (this email will work until the end of October), uvsh@wisc.edu (This is my permanent email.)
 
-## Suggested reading:
+## Suggested reading
 
 Election 2020 in Mongolia: https://www.washingtonpost.com/politics/2020/07/07/heres-how-an-unpopular-ruling-party-sweptmongolias-june-elections/
 
